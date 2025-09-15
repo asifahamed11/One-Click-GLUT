@@ -1,4 +1,4 @@
-# One Click GLUT Installer v1.0
+# One Click GLUT Installer v2.0
 
 This script automates installing Code::Blocks with MinGW and FreeGLUT on Windows. It handles installation, FreeGLUT setup, template updates, and can create a desktop shortcut.
 
