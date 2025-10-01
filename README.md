@@ -26,4 +26,4 @@ Thank you for using this installer!
 ## Download
 
 Get the installer script and required files here:  
-[Google Drive Link](https://drive.google.com/file/d/1PGybzKwv6oOOwQvDqMKbO92ct9CmzrkR/view?usp=sharing)
+[Google Drive Link](https://drive.google.com/file/d/1bjIk7F-yfzkKvXCU5pt9g3SbFr551Tz8/view?usp=sharing)
